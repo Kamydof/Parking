@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parking.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3987951a632246f9f9c738687414202ce98e1688")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078cc3fc710b602863e3e42af3e49addb3d5c1cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parking.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parking.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
