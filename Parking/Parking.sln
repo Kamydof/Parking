@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking", "Parking\Parking.csproj", "{95CE3879-2389-4E24-9D90-EAEC3FA48012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Api", "Parking.Api\Parking.Api.csproj", "{A3968207-37A0-4F8F-9F3F-C127A13777D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Api", "Parking.Api\Parking.Api.csproj", "{A3968207-37A0-4F8F-9F3F-C127A13777D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Web", "Parking.Web\Parking.Web.csproj", "{4737FED8-49CC-4752-9BA4-A490914E3F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Web", "Parking.Web\Parking.Web.csproj", "{4737FED8-49CC-4752-9BA4-A490914E3F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Services", "Parking.Services\Parking.Services.csproj", "{86A669A0-E7A0-48F6-89D9-410EA8C779E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Services", "Parking.Services\Parking.Services.csproj", "{86A669A0-E7A0-48F6-89D9-410EA8C779E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking.Interface", "Parking.Interface\Parking.Interface.csproj", "{F34F013A-0429-40C6-8701-09AF8B2324E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{86A669A0-E7A0-48F6-89D9-410EA8C779E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A669A0-E7A0-48F6-89D9-410EA8C779E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A669A0-E7A0-48F6-89D9-410EA8C779E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34F013A-0429-40C6-8701-09AF8B2324E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34F013A-0429-40C6-8701-09AF8B2324E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34F013A-0429-40C6-8701-09AF8B2324E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34F013A-0429-40C6-8701-09AF8B2324E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
