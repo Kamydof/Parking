@@ -1,0 +1,15 @@
+C:\work\parking\Parking\Parking.FIles\bin\Debug\net8.0\Parking.FIles.exe
+C:\work\parking\Parking\Parking.FIles\bin\Debug\net8.0\Parking.FIles.deps.json
+C:\work\parking\Parking\Parking.FIles\bin\Debug\net8.0\Parking.FIles.runtimeconfig.json
+C:\work\parking\Parking\Parking.FIles\bin\Debug\net8.0\Parking.FIles.dll
+C:\work\parking\Parking\Parking.FIles\bin\Debug\net8.0\Parking.FIles.pdb
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.AssemblyInfoInputs.cache
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.AssemblyInfo.cs
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.csproj.CoreCompileInputs.cache
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.sourcelink.json
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.dll
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\refint\Parking.FIles.dll
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.pdb
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\Parking.FIles.genruntimeconfig.cache
+C:\work\parking\Parking\Parking.FIles\obj\Debug\net8.0\ref\Parking.FIles.dll
