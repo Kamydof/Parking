@@ -8,5 +8,6 @@ namespace Parking.Api
 {
     internal class ApiController
     {
+        public void Api() { }
     }
 }
