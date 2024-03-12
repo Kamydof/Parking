@@ -6,3 +6,6 @@
 /.vs
 /Parking/.vs
 /Parking/Parking/obj
+/Parking/ConsoleApp2/obj/Debug
+/Parking/packages
+/Parking/Parking/bin/Debug/net8.0
